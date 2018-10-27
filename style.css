@@ -15,7 +15,7 @@ body{
 .container > div{
     width: 200px;
     height: 200px;
-    transition: 1s;
+    transition: 1s ease-in;
 }
 
 div > div:nth-last-child(1){
